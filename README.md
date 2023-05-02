@@ -120,6 +120,6 @@ TrSenTin (n, M, Sigma, theta, density)
 * theta: A number referring to the tailedness parameter of the chosen distribution.
 * density: A character specifying the tensor-variate distribution to consider for generating the data. Possible values are: "TVSEN" and "TVTIN". 
 
-# Example files
+# Example file
 
-The example files allow to simulate and fit our models.
+The example file allow to simulate and fit our models.
